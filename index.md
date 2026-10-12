@@ -1,14 +1,14 @@
-# PRIVACY POLICY - Offroad Police: Hunter Chase
+# PRIVACY POLICY - Forest Police: Hunter Chase
 
-*Khudi Technology  -  last updated 7 October 2026*
+*Khudi Technology  -  last updated 10 October 2026*
 
 ## Who We Are
 
-Khudi Technology ("we") publishes Offroad Police: Hunter Chase (the "game") for Android. This policy explains what the game does and does not do with information on your device.
+Khudi Technology ("we") publishes Forest Police: Hunter Chase (the "game") for Android. This policy explains what the game does and does not do with information on your device.
 
 ## What The Game Stores
 
-The game keeps a small settings file on your phone: your control choices (steering, speed, gearbox, graphics, sound), the vehicle and paint you picked, your mission progress and best fuel figures. Nothing in that file identifies you. It never leaves the phone, and uninstalling the game deletes it.
+The game keeps a small settings file on your phone: your control choices (steering, gearbox, graphics, sound), the vehicle and paint you picked, your mission progress and best fuel figures. Nothing in that file identifies you. It never leaves the phone, and uninstalling the game deletes it.
 
 ## What The Game Does Not Do
 
