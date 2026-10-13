@@ -1,6 +1,6 @@
 # PRIVACY POLICY - Forest Police: Hunter Chase
 
-*Khudi Technology  -  last updated 10 October 2026*
+*Khudi Technology  -  last updated 13 October 2026*
 
 ## Who We Are
 
@@ -8,7 +8,7 @@ Khudi Technology ("we") publishes Forest Police: Hunter Chase (the "game") for A
 
 ## What The Game Stores
 
-The game keeps a small settings file on your phone: your control choices (steering, gearbox, graphics, sound), the vehicle and paint you picked, your mission progress and best fuel figures. Nothing in that file identifies you. It never leaves the phone, and uninstalling the game deletes it.
+The game keeps a small settings file on your phone: your control choices (steering, gearbox, graphics, sound), the vehicle and paint you picked, your mission progress and best fuel figures, and whether the Google Play rating card has already been shown. Nothing in that file identifies you. It never leaves the phone, and uninstalling the game deletes it.
 
 ## What The Game Does Not Do
 
@@ -19,11 +19,15 @@ The game keeps a small settings file on your phone: your control choices (steeri
 
 ## Permissions
 
-The game asks for VIBRATE, so the phone can rumble when the truck is hit. That setting can be turned off in Options. When advertising is enabled the game also needs INTERNET to fetch ads.
+The game asks for VIBRATE, so the phone can rumble when the truck is hit (it can be turned off in Options). For the ads it also needs INTERNET and network state, and Google's ad library adds the advertising ID permission. The game itself plays offline; only the ads need a connection.
 
 ## Advertising
 
-Some versions of the game offer a rewarded video ad in exchange for a refuel or a repair. Those ads are served by Google AdMob. When an ad is shown, Google may collect your device's advertising ID, IP address, coarse location derived from it, and information about your device and the ad, under Google's own privacy policy (https://policies.google.com/privacy) and ad terms. You can reset or delete your advertising ID and opt out of personalised ads in your phone's Google settings. We do not receive any of that data ourselves. A version of the game without ads collects nothing at all.
+The game shows ads served by Google AdMob: video ads you choose to watch for a reward (a refuel or a repair from mission 2, a second chance after running out of fuel or wrecking the truck, more rope or rounds, the radar, another weather, or a locked truck for one mission), and now and then a full-screen ad between missions - never while you are driving. Ads are limited to content rated suitable for teens. When an ad is requested or shown, Google may collect your device's advertising ID, IP address, coarse location derived from it, and information about your device and the ad, under Google's own privacy policy (https://policies.google.com/privacy) and ad terms. In the European Economic Area and the UK the game first asks for your consent with Google's consent message, and you can change your choice at any time in Options -> PRIVACY CHOICES. Anywhere, you can reset or delete your advertising ID and opt out of personalised ads in your phone's Google settings. We do not receive any of that data ourselves.
+
+## Ratings
+
+After your first win the game may show Google Play's own rating card. A rating or review you leave there goes to Google Play under Google's terms; the game and we receive nothing from it.
 
 ## Children
 
